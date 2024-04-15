@@ -1,0 +1,39 @@
+{
+    "workbench.editor.enablePreview": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    //"workbench.colorTheme": "Lazy Yellow Lemon",
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+
+    "workbench.colorCustomizations": {
+    
+
+        "textPreformat.foreground": "#7a3c3c",
+        "editor.foreground": "#230707",
+        "editor.background": "#a68d1f", 
+        "editor.findMatchBorder":  "#453d07", 
+        "editor.focusedStackFrameHighlightBackground": "#a18c03",
+        "activityBar.border": "#a18c10",
+        "sideBar.background": "#a19c10",
+        "sideBar.dropBackground": "#a19c11",
+        "sideBar.border": "#a19c20",
+        "sideBar.foreground": "#413302",
+        "sideBarSectionHeader.background": "#a19c20",
+        "sideBarSectionHeader.foreground": "#cc1000",
+        "editorLineNumber.foreground": "#372a2a",
+        "editor.lineHighlightBorder": "#732929",
+        "editorLineNumber.activeForeground": "#a86e6a",
+        "tab.border": "#ff0000",
+        "bookmarks.lineBackground": "#d15454",
+        "editor.lineHighlightBackground": "#b14b4b",
+        "editorGutter.background": "#a68d10",
+        "editorStickyScroll.background": "#ff0000",
+        "notebookScrollbarSlider.background": "#ff0000",
+        "minimap.background": "#a68d1f",
+    }
+        // 3 examples: #a68d1f
+        //              #a18c00              
+        //              #976f25
